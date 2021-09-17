@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Pinguin-Action
-        uses: cKarud/github-action@v1.3
+        uses: cKarud/github-action@v1.4
